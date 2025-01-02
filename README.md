@@ -1,6 +1,8 @@
 # MEPLog-
 Develop a simple C# programming language with a simple to learn IDE
 MEPLog+
+![Screenshot (69)](https://github.com/user-attachments/assets/357f567c-499c-4a30-ac30-ff086b62eb74)
+
 #### 1. **Project Overview**
 The project involves the development of a simple Integrated Development Environment (IDE) designed to run and interpret basic code written by the user. The IDE includes features like line numbering, syntax highlighting, and the ability to execute code in a simple interpreted language. This environment supports basic programming constructs such as variable assignment, printing output, and mathematical operations. 
 
